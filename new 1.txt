@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Shocking Movie Twist — See What Happened</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; background:#fafafa; color:#111; }
+    .wrap { max-width:760px; margin:30px auto; padding:18px; background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+    img.hero { width:100%; height:auto; border-radius:6px; }
+    h1 { font-size:24px; margin:14px 0; }
+    p { line-height:1.6; color:#333; }
+    .cta { display:block; width:100%; text-align:center; padding:14px 10px; margin:18px 0; background:#0b72ff; color:#fff; border-radius:8px; text-decoration:none; font-weight:700; }
+    .cta:hover { background:#095ed1; }
+    .small { font-size:12px; color:#666; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="hero" src="https://via.placeholder.com/760x400.png?text=Your+Story+Image" alt="breaking story"/>
+    <h1>How this one scene broke the internet — and what viewers missed</h1>
+    <p>Yesterday a short clip from a new movie went viral. Fans started sharing it across Facebook and countless threads popped up with people asking the same question — what happened at 01:13? We dug through the best public sources and summarized the reaction.</p>
+    <p>Scroll down, read the short recap, then click the button to see the full breakdown and related content other viewers found interesting.</p>
+    
+    <!-- Replace YOUR_DIRECT_LINK_HERE with your Adsterra Direct Link -->
+    <a class="cta" href=https://rodesquad.com/s4y1fx9xc?key=0714a2b6705cd0422d265eb7b0bdb882 target="_blank" rel="nofollow">Continue to full story</a>
+    
+    <p class="small">Note: this page only links to public content and advertisers. No illegal streaming material is provided.</p>
+  </div>
+</body>
+</html>
